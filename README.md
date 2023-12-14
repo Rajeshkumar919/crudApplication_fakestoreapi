@@ -1,1 +1,1 @@
-# crudApplication_fakestoreapi
+# react-app-template
